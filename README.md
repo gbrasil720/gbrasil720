@@ -16,7 +16,8 @@ Me chamo Enzo Sakamoto, tenho 19 anos e estou cursando o segundo ano de Engenhar
 </div>
 <div>
   <a href="https://github.com/enzosakamoto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enzosakamoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=enzosakamoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzosakamoto&layout=compact&langs_count=7&theme=dracula"/>
   
   ![Snake animation](https://github.com/enzosakamoto/enzosakamoto/blob/output/github-contribution-grid-snake.svg)
   
