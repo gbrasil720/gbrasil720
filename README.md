@@ -4,7 +4,7 @@ Me chamo Enzo Sakamoto, tenho 19 anos e estou cursando o segundo ano de Engenhar
 </br>
 👾 Atualmente, estou focando em aprender: Python, C, Dart e Javascript.
 </br></br>
-🛹 Hobbies: Jogar, andar de skate e programar.
+🛹 Hobbies: Andar de skate, jogar, ver filmes de terror e programar.
 
 ##
  
