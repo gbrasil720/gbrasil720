@@ -1,6 +1,6 @@
 ## Bem-vindo ao meu GitHub 👋
 
-Me chamo Enzo Sakamoto, tenho 19 anos e estou cursando o segundo ano de Engenharia de Computação no Instituto Mauá de Tecnologia. </br>
+Me chamo Enzo Sakamoto, tenho 20 anos e estou cursando o segundo ano de Engenharia de Computação no Instituto Mauá de Tecnologia. </br>
 </br>
 👾 Atualmente, estou focando em aprender: Python, C, Dart e Javascript.
 </br></br>
