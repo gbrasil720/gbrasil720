@@ -2,7 +2,7 @@
 
 Me chamo Enzo Sakamoto, tenho 20 anos e estou cursando o segundo ano de Engenharia de Computação no Instituto Mauá de Tecnologia. </br>
 </br>
-👾 Atualmente, estou focando em aprender: Python, C, Dart e Javascript.
+👾 Atualmente, estou focando em aprender: Python, C, Dart, CSS, HTML e Javascript.
 </br></br>
 🛹 Hobbies: Andar de skate, jogar, ver filmes de terror e programar.
 
