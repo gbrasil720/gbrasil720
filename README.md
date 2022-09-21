@@ -1,10 +1,14 @@
 ## Bem-vindo ao meu GitHub 👋
-
-Me chamo Enzo Sakamoto, tenho 20 anos e estou cursando o segundo ano de Engenharia de Computação no Instituto Mauá de Tecnologia. </br>
-</br>
-👾 Atualmente, estou focando em aprender: Python, C, Dart, CSS, HTML e Javascript.
-</br></br>
-🛹 Hobbies: Andar de skate, jogar, ver filmes de terror e programar.
+<img align="right" height=320px width=320px src="https://user-images.githubusercontent.com/98707474/191408519-b9236392-4bde-4d2f-a4ee-bbf9ee631bda.png">
+<p align="left" text-align="justify">
+  Me chamo Enzo Sakamoto, tenho 20 anos e estou cursando o segundo ano de Engenharia de Computação no Instituto Mauá de Tecnologia.
+</p>
+<p align="left" text-align="justify">
+  👾 Atualmente, estou focando em aprender: Python, C, Dart, CSS, HTML e Javascript.
+</p>
+<p align="left" text-align="justify">
+  🛹 Hobbies: Andar de skate, jogar, ver filmes de terror e programar.
+</p>
 
 ##
  
