@@ -7,7 +7,7 @@
   👾 Atualmente, estou focando em aprender: Python, C, Dart, CSS, HTML e Javascript.
 </p>
 <p align="left" text-align="justify">
-  🛹 Hobbies: Andar de skate, jogar, ver filmes de terror e programar.
+  🛹 Hobbies: Andar de skate, jogar, ver filmes de terror, malhar e programar.
 </p>
 
 ##
