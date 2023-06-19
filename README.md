@@ -1,10 +1,10 @@
 ## Bem-vindo ao meu GitHub 👋
 <img align="right" height=150px width=150px src="https://user-images.githubusercontent.com/98707474/191408519-b9236392-4bde-4d2f-a4ee-bbf9ee631bda.png">
 <p align="left" text-align="justify">
-  Me chamo Enzo Sakamoto, tenho 20 anos e estou cursando o segundo ano de Engenharia de Computação no Instituto Mauá de Tecnologia.
+  Me chamo Enzo Sakamoto, tenho 20 anos e estou cursando o terceiro ano de Engenharia de Computação no Instituto Mauá de Tecnologia.
 </p>
 <p align="left" text-align="justify">
-  👾 Atualmente, estou focando em aprender: Python, HTML, CSS e Javascript (ReactJS).
+  👾 Atualmente, estou focando em aprender: Next.js
 </p>
 <p align="left" text-align="justify">
   🛹 Hobbies: Andar de skate, jogar, ver filmes de terror, treinar e programar.
