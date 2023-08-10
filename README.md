@@ -4,7 +4,7 @@
   Me chamo Enzo Sakamoto, tenho 21 anos e estou cursando o terceiro ano de Engenharia de Computação no Instituto Mauá de Tecnologia.
 </p>
 <p align="left" text-align="justify">
-  👾 Atualmente, estou focando em aprender: Clean Arch, ReactJS e TailwindCSS
+  👾 Atualmente, estou focando em aprender: Clean Arch, Node.js e PostgreSQL.
 </p>
 <p align="left" text-align="justify">
   🛹 Hobbies: Andar de skate, jogar, ver filmes de terror, treinar e programar.
