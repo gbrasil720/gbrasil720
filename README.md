@@ -34,7 +34,7 @@
 ##
 <div>
   <a href="https://github.com/enzosakamoto">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=enzosakamoto&show_icons=true&include_all_commits=true&count_private=true&theme=transparent"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=enzosakamoto&show_icons=true&count_private=true&theme=transparent"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzosakamoto&layout=compact&langs_count=7&theme=transparent"/>
 
   <picture>
