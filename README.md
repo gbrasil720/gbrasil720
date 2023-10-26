@@ -34,8 +34,8 @@
 ##
 <div>
   <a href="https://github.com/enzosakamoto">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=enzosakamoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzosakamoto&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=enzosakamoto&show_icons=true&include_all_commits=true&count_private=true&theme=transparent"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzosakamoto&layout=compact&langs_count=7&theme=transparent"/>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/enzosakamoto/enzosakamoto/blob/output/github-contribution-grid-snake-dark.svg" />
