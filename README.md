@@ -5,7 +5,7 @@
   <em>My name is Enzo Sakamoto, I'm 21 years old and I'm in my third year of Computer Engineering (6th semester) at Instituto Mauá de Tecnologia.</em>
 </p>
 <p align="left" text-align="justify">
-  🎯 Estou focando em aprender | <em>I'm focused on learning</em>: Clean Arch, ReactJS e Tailwind CSS.<br/>
+  🎯 Estou focando em aprender | <em>I'm focused on learning</em>: Docker, AWS e Data Science.<br/>
 </p>
 <p align="left" text-align="justify">
   🛹 Hobbies: Andar de skate, jogar, ver filmes de terror, treinar e programar | <em>Skateboarding, play video games, watch horror movies, work out and programming</em>.
