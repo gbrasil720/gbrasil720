@@ -1,8 +1,8 @@
 ## Welcome to my GitHub 👋
 <img align="right" height=150px width=150px src="https://user-images.githubusercontent.com/98707474/191408519-b9236392-4bde-4d2f-a4ee-bbf9ee631bda.png">
 <p align="left" text-align="justify">
-  Me chamo Guilherme Brasil, tenho 18 anos e estou cursando o primeiro ano de Ciência da Computação (1º semestre) no Instituto Mauá de Tecnologia.<br/>
-  <em>My name is Guilherme Brasil, I'm 18 years old and I'm in my first year of Computer Science (1st semester) at Instituto Mauá de Tecnologia.</em>
+  Me chamo Guilherme Brasil, tenho 18 anos e estou cursando o primeiro ano de Ciência da Computação (2º semestre) no Instituto Mauá de Tecnologia.<br/>
+  <em>My name is Guilherme Brasil, I'm 18 years old and I'm in my first year of Computer Science (2nd semester) at Instituto Mauá de Tecnologia.</em>
 </p>
 <p align="left" text-align="justify">
   🎯 Estou focado em: | <em>I'm focused on:</em>: Melhorar minhas habilidades com desenvolvimento frontend | <em>Improve my frontend developing skills</em><br/>
