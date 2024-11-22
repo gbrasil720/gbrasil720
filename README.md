@@ -1,41 +1,82 @@
-## Welcome to my GitHub 👋
-<img align="right" height=150px width=150px src="https://user-images.githubusercontent.com/98707474/191408519-b9236392-4bde-4d2f-a4ee-bbf9ee631bda.png">
-<p align="left" text-align="justify">
-  Me chamo Guilherme Brasil, tenho 18 anos e estou cursando o primeiro ano de Ciência da Computação (2º semestre) no Instituto Mauá de Tecnologia.<br/>
-  <em>My name is Guilherme Brasil, I'm 18 years old and I'm in my first year of Computer Science (2nd semester) at Instituto Mauá de Tecnologia.</em>
-</p>
-<p align="left" text-align="justify">
-  🎯 Estou focado em: | <em>I'm focused on:</em>: Melhorar minhas habilidades com desenvolvimento frontend | <em>Improve my frontend developing skills</em><br/>
-</p>
-<p align="left" text-align="justify">
-  🛹 Hobbies: Jogar videogames e criar projetos diferentes | <em>Play video games and create different projects</em>.
+<h1 align="center">🌟 Guilherme Brasil 🌟</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF96&lines=Computer+Science+Student+At+IMT;Fullstack+Developer+Since+2022;Always+Learning+New+Techs" alt="Typing Animation" />
 </p>
 
-## 💻 Technologies:
-<div style="display: inline_block"><br>
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+---
+
+## 🌍 About Me  
+- 🎓 **Computer Science student** at Instituto Mauá de Tecnologia.  
+- 💻 Passionate about **Web Development** with a focus on React, Next.js, and Fastify.  
+- 🌱 Constantly improving in **frontend design**, backend optimization, and fullstack scalability.  
+- ✨ I believe in writing **clean, efficient code** with a touch of creativity.  
+
+---
+
+## 💻 Tech Stack  
+
+### **Languages**  
+![JavaScript](https://img.shields.io/badge/JavaScript-FFCA28?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+
+### **Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+
+### **Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)  
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)  
+
+### **Validation & ORM**  
+![Zod](https://img.shields.io/badge/Zod-FFCC00?style=for-the-badge&logoColor=black)  
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)  
+
+### **Tools**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white)  
+
+---
+
+### **🧑‍💻 Most Used Languages**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrasil720&layout=compact&theme=radical" alt="Most Used Languages" width="400px" />
 </div>
- 
-## 🌐 Contact:
-<div> 
-  <a href="https://www.instagram.com/g.brasil__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gbrasil720&show_icons=true&theme=radical" alt="GitHub Stats" width="400px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gbrasil720&theme=radical" alt="GitHub Streak" width="400px" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gbrasil720&theme=radical&column=3" alt="Trophies" width="400px" />
 </div>
 
-##
-<div>
-  <a href="https://github.com/enzosakamoto">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gbrasil720&show_icons=true&count_private=true&theme=transparent"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrasil720&layout=compact&langs_count=7&theme=transparent"/>
+---
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gbrasil720/gbrasil720/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/gbrasil720/gbrasil720/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/gbrasil720/gbrasil720/blob/output/github-contribution-grid-snake.svg" />
-  </picture>
+## 🌟 Open to Collaboration  
+🤝 I'm open to collaborating on **open-source projects** or innovative ideas. Feel free to reach out if you'd like to work together!  
+
+---
+
+## ✉️ Let's Connect  
+
+<p align="center">
+  <a href="mailto:24.01242-4@maua.br"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF96&size=22&center=true&vCenter=true&width=440&lines=Thanks+for+visiting+my+profile!;Feel+free+to+explore+my+repos!" alt="Thanks Animation" />
 </div>
