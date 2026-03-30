@@ -1,21 +1,21 @@
 # Guilherme Brasil 👨‍💻
-
-> 🎓 Computer Science Student at IMT | 💻 Fullstack Developer since 2022
+> 🎓 Computer Science Student at IMT | 💻 Fullstack Developer | Building SaaS & AI-powered tools
 
 ---
 
 ## 🌟 About
 
-Computer Science student at Instituto Mauá de Tecnologia, passionate about web development with focus on React, Next.js, and Fastify. Constantly improving in frontend design, backend optimization, and fullstack scalability.
+Computer Science student at Instituto Mauá de Tecnologia, focused on building fullstack products with React, Next.js, and TypeScript. Recently shipped an AI transcription SaaS and an LLM-powered chatbot. Constantly improving in frontend design, backend architecture, and fullstack scalability.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**💻 Languages:** JavaScript, TypeScript, HTML, CSS  
-**⚛️ Frontend:** React, Next.js, TailwindCSS  
-**🔧 Backend:** Node.js, Fastify, JWT  
-**🛠️ Tools:** Zod, Prisma, Docker, Git, VS Code, Figma  
+**💻 Languages:** JavaScript, TypeScript, HTML, CSS <br>
+**⚛️ Frontend:** React, Next.js, TailwindCSS <br>
+**🔧 Backend:** Node.js, Bun, Fastify, Elysia <br>
+**🗄️ Databases:** PostgreSQL, Prisma ORM, Drizzle ORM <br>
+**🛠️ Tools:** Git, Docker, Vercel, VS Code, Figma
 
 ---
 
@@ -30,7 +30,7 @@ Computer Science student at Instituto Mauá de Tecnologia, passionate about web 
 
 ## 📫 Connect
 
-- 📧 [Email](mailto:dev.guilhermebrasil@gmail.com)
+- 📧 [Email](mailto:resendebrasilgui@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/guilherme-brasil-566891328/)
 
 ---
