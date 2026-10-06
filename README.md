@@ -8,13 +8,6 @@
 
 <p align="center">São Paulo, Brazil</p>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=6E6E6E&center=true&vCenter=true&width=520&lines=I+build+web+apps+and+APIs;I+work+with+TypeScript%2C+React+and+Node.js;I+study+AI+agents+and+developer+tools"
-    alt="Typing animation"
-  />
-</p>
-
 ### About
 
 I'm a Computer Science student at Instituto Mauá de Tecnologia and a full-stack developer based in São Paulo.
